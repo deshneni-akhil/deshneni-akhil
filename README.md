@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akhil Deshneni</h1>
 <h3 align="center">A Passionate Learner and an Open Source Geek.</h3>
- <img src="https://media.licdn.com/dms/image/C5603AQEMehZnM8AxPA/profile-displayphoto-shrink_800_800/0/1659433449109?e=1716422400&v=beta&t=JxGnWpUD0SvYzLJqXkMF8ID8RfFhpC-75gRxiztWDTI" alt="AkhilDeshneni" /> 
+<!--  <img src="https://media.licdn.com/dms/image/C5603AQEMehZnM8AxPA/profile-displayphoto-shrink_800_800/0/1659433449109?e=1716422400&v=beta&t=JxGnWpUD0SvYzLJqXkMF8ID8RfFhpC-75gRxiztWDTI" alt="AkhilDeshneni" />  -->
 <p align="center">
 
 - 📃 My Resume as of July 2023 - <a href = "https://drive.google.com/file/d/1CzGTFMP3-htk86xJIunQwVBUbwDc0xwz/view">Resume</a>
