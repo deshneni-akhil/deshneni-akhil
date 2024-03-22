@@ -3,7 +3,7 @@
 <!--  <img src="https://media.licdn.com/dms/image/C5603AQEMehZnM8AxPA/profile-displayphoto-shrink_800_800/0/1659433449109?e=1716422400&v=beta&t=JxGnWpUD0SvYzLJqXkMF8ID8RfFhpC-75gRxiztWDTI" alt="AkhilDeshneni" />  -->
 <p align="center">
 
-- 📃 My Resume as of July 2023 - <a href = "https://drive.google.com/file/d/1CzGTFMP3-htk86xJIunQwVBUbwDc0xwz/view">Resume</a>
+- 📃 My Resume as of April 2024 - <a href = "https://drive.google.com/file/d/1CzGTFMP3-htk86xJIunQwVBUbwDc0xwz/view">Resume</a>
 
 - 🔭 I’m currently working on **ReactJS and Python ASGI & WSGI Servers**
 
