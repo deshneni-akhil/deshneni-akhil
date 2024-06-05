@@ -13,6 +13,7 @@
 
 - ⚡ Fun fact **I am debugging like a detective in a crime movie where I am also the Murderer**
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deshneni-akhil&theme=nightowl)](https://git.io/streak-stats)
 
 <h2 align="center"> 🔭 Technology Stack</h2>
 <br>
