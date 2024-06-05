@@ -3,7 +3,9 @@
 
 - 📃 My Resume as of April 2024 - <a href = "https://drive.google.com/file/d/1CzGTFMP3-htk86xJIunQwVBUbwDc0xwz/view">Resume</a>
 
-- 🔭 I’m currently working on **ReactJS and Python ASGI & WSGI Servers**
+- 🔭 I’m currently working on **ReactJS and buding RestAPIs over Python ASGI & WSGI Servers**
+
+- 🤖 I like to build projects based on Machine Vision to tackle some intresting use-cases
 
 - 🤔 I’m looking for help with **Full Stack Development**
 
