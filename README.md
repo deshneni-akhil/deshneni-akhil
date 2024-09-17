@@ -46,7 +46,7 @@
 
 <!-- </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AnirudhPanda&layout=compact&hide=html&theme=jolly" alt="Anirudh Panda" />&nbsp;&nbsp;&nbsp;&nbsp; </p> -->
 
-<h2 align="center">📫 Reach out to me on</h2>
+<h2 align="center">📫 Reach out to me on Linkedin</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/deshneni-akhil"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <a target="_blank"href="https://twitter.com/anirudhpandaaa"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
