@@ -1,15 +1,12 @@
 <h1 style="text-align: center;">Hi 👋, I'm Akhil Deshneni <img src="https://komarev.com/ghpvc/?username=deshneni-akhil&label=Profile%20views&color=0e75b6&style=flat" alt="deshneni-akhil" style="float: left;" /> </h1>
 <h3 align="center">A Passionate Learner and an Open Source Geek.</h3>
 
-- 📃 My Resume as of April 2024 - <a href = "https://drive.google.com/file/d/1CzGTFMP3-htk86xJIunQwVBUbwDc0xwz/view">Resume</a>
 
-- 🔭 I’m currently working on **ReactJS and buding RestAPIs over Python ASGI & WSGI Servers**
+- 🔭 I’m currently working on **building intelligent applications over Python ASGI & WSGI Servers**
 
-- 🤖 I like to build projects based on Machine Vision to tackle some intresting use-cases
+- 🤖 I like to build projects based on Machine Vision to tackle some intresting use-cases.
 
 - 🤔 I’m looking for help with **Full Stack Development**
-
-- ⚡ Check out my Portfolio Website <a href = "https://deshneni-akhil.github.io/">Here</a>
 
 - 📫 How to reach me **deshneni.akhil@outlook.com**
 
