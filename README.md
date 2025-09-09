@@ -4,13 +4,9 @@
 
 - 🔭 I’m currently working on **building intelligent applications over Python ASGI & WSGI Servers**
 
-- 🤖 I like to build projects based on Machine Vision to tackle some intresting use-cases.
-
-- 🤔 I’m looking for help with **Full Stack Development**
+- 🤖 I like to build projects to tackle some interesting use-cases.
 
 - 📫 How to reach me **deshneni.akhil@outlook.com**
-
-- ⚡ Fun fact **I am debugging like a detective in a crime movie where I am also the Murderer**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deshneni-akhil&theme=nightowl)](https://git.io/streak-stats)
 
